@@ -21,3 +21,4 @@ question 7
 question 8
 
 ![task 4 sql 8](https://github.com/Petersite/SQL-WEEK-4-TASK-/assets/140444150/3049d6a3-f8e8-4f59-b632-2eedb25feb3f)
+.
